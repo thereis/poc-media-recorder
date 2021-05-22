@@ -4,6 +4,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 This project is only a POC of how to record audio using the MediaRecord API.
 
+![https://i.imgur.com/m3fPL5M.png](https://i.imgur.com/m3fPL5M.png)
+
 ## Getting Started
 
 First, run the development server:
